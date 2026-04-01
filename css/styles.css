@@ -14,7 +14,7 @@ body{
 .inner-container
 {
     max-width: 540px;
-    background-color: #fff;
+    background-color: yellow;
     min-height: 400px;
     transform: translateY(40px);
 }
